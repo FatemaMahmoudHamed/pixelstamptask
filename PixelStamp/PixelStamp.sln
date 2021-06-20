@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PixelStamp.ServiceInterface
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PixelStamp.Portal", "PixelStamp.Portal\PixelStamp.Portal.csproj", "{48E08B67-6E7A-4D73-A716-A33F2574352B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelStamp.Common", "PixelStamp.Common\PixelStamp.Common.csproj", "{EE2D2872-7E83-40D3-B377-9A36581F58B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PixelStamp.Common", "PixelStamp.Common\PixelStamp.Common.csproj", "{EE2D2872-7E83-40D3-B377-9A36581F58B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

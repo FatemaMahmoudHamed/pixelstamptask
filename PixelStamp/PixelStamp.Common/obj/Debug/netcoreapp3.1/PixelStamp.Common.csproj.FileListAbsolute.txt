@@ -9,3 +9,14 @@ E:\PixelStamp\PixelStamp.Common\obj\Debug\netcoreapp3.1\PixelStamp.Common.Assemb
 E:\PixelStamp\PixelStamp.Common\obj\Debug\netcoreapp3.1\PixelStamp.Common.csproj.CoreCompileInputs.cache
 E:\PixelStamp\PixelStamp.Common\obj\Debug\netcoreapp3.1\PixelStamp.Common.dll
 E:\PixelStamp\PixelStamp.Common\obj\Debug\netcoreapp3.1\PixelStamp.Common.pdb
+D:\PixelStampTask\PixelStamp\PixelStamp.Common\bin\Debug\netcoreapp3.1\PixelStamp.Common.deps.json
+D:\PixelStampTask\PixelStamp\PixelStamp.Common\bin\Debug\netcoreapp3.1\PixelStamp.Common.dll
+D:\PixelStampTask\PixelStamp\PixelStamp.Common\bin\Debug\netcoreapp3.1\PixelStamp.Common.pdb
+D:\PixelStampTask\PixelStamp\PixelStamp.Common\obj\Debug\netcoreapp3.1\PixelStamp.Common.csprojAssemblyReference.cache
+D:\PixelStampTask\PixelStamp\PixelStamp.Common\obj\Debug\netcoreapp3.1\PixelStamp.Common.Resources.Common.ValidatorsMessages.resources
+D:\PixelStampTask\PixelStamp\PixelStamp.Common\obj\Debug\netcoreapp3.1\PixelStamp.Common.csproj.GenerateResource.cache
+D:\PixelStampTask\PixelStamp\PixelStamp.Common\obj\Debug\netcoreapp3.1\PixelStamp.Common.AssemblyInfoInputs.cache
+D:\PixelStampTask\PixelStamp\PixelStamp.Common\obj\Debug\netcoreapp3.1\PixelStamp.Common.AssemblyInfo.cs
+D:\PixelStampTask\PixelStamp\PixelStamp.Common\obj\Debug\netcoreapp3.1\PixelStamp.Common.csproj.CoreCompileInputs.cache
+D:\PixelStampTask\PixelStamp\PixelStamp.Common\obj\Debug\netcoreapp3.1\PixelStamp.Common.dll
+D:\PixelStampTask\PixelStamp\PixelStamp.Common\obj\Debug\netcoreapp3.1\PixelStamp.Common.pdb

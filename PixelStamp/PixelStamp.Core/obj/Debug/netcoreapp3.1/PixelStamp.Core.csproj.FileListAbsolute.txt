@@ -7,3 +7,12 @@ E:\PixelStamp\PixelStamp.Core\obj\Debug\netcoreapp3.1\PixelStamp.Core.AssemblyIn
 E:\PixelStamp\PixelStamp.Core\obj\Debug\netcoreapp3.1\PixelStamp.Core.csproj.CoreCompileInputs.cache
 E:\PixelStamp\PixelStamp.Core\obj\Debug\netcoreapp3.1\PixelStamp.Core.dll
 E:\PixelStamp\PixelStamp.Core\obj\Debug\netcoreapp3.1\PixelStamp.Core.pdb
+D:\PixelStampTask\PixelStamp\PixelStamp.Core\bin\Debug\netcoreapp3.1\PixelStamp.Core.deps.json
+D:\PixelStampTask\PixelStamp\PixelStamp.Core\bin\Debug\netcoreapp3.1\PixelStamp.Core.dll
+D:\PixelStampTask\PixelStamp\PixelStamp.Core\bin\Debug\netcoreapp3.1\PixelStamp.Core.pdb
+D:\PixelStampTask\PixelStamp\PixelStamp.Core\obj\Debug\netcoreapp3.1\PixelStamp.Core.csprojAssemblyReference.cache
+D:\PixelStampTask\PixelStamp\PixelStamp.Core\obj\Debug\netcoreapp3.1\PixelStamp.Core.AssemblyInfoInputs.cache
+D:\PixelStampTask\PixelStamp\PixelStamp.Core\obj\Debug\netcoreapp3.1\PixelStamp.Core.AssemblyInfo.cs
+D:\PixelStampTask\PixelStamp\PixelStamp.Core\obj\Debug\netcoreapp3.1\PixelStamp.Core.csproj.CoreCompileInputs.cache
+D:\PixelStampTask\PixelStamp\PixelStamp.Core\obj\Debug\netcoreapp3.1\PixelStamp.Core.dll
+D:\PixelStampTask\PixelStamp\PixelStamp.Core\obj\Debug\netcoreapp3.1\PixelStamp.Core.pdb

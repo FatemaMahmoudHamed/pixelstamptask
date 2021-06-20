@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  pixelstamp.portal:
+    image: ${DOCKER_REGISTRY-}pixelstampportal
+    build:
+      context: .
+      dockerfile: PixelStamp.Portal\Dockerfile
