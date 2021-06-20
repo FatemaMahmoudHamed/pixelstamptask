@@ -1,0 +1,39 @@
+﻿@model PixelStamp.Core.Dtos.LessonDto;
+
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Lesson</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Video)
+        </dt>
+        <dd class="col-sm-10">
+            <video id="VideoPlayer" src='~/Videos/@Html.DisplayFor(model => model.Video)' controls="true"
+                   width="400" height="350" loop="true" />
+        </dd>
+        
+    </dl>
+</div>
+<div>
+    @if (ViewBag.Role == "Teacher")
+    {
+        <p>
+            <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+        </p>
+    }
+    <a asp-action="Index" asp-route-courseId="@Model.CourseId">Back to List</a>
+
+</div>

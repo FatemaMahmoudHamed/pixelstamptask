@@ -1,0 +1,78 @@
+﻿@model PixelStamp.Core.Dtos.CourseDto;
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Course</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+        <dd class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Buyers)
+        </dd>
+        <dd class="col-sm-10">
+            <table cellpadding="0" cellspacing="0">
+                @if (Model.Buyers.Count() > 0)
+                {
+                    foreach (var file in Model.Buyers)
+                    {
+                        <tr>
+                            <td>
+                                <u>
+                                    @file.UserName
+                                </u>
+                            </td>
+                        </tr>
+                    }
+                }
+            </table>
+        </dd>
+        <dd class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Lessons)
+        </dd>
+        <dd class="col-sm-10">
+            <table cellpadding="0" cellspacing="0">
+                @if (Model.Lessons.Count() > 0)
+                {
+                    foreach (var file in Model.Lessons)
+                    {
+                        <tr>
+                            <td>
+                                <u>
+                                    @file.Description
+                                </u>
+                                <hr />
+                                <video id="VideoPlayer" src='~/Videos/@file.Video' controls="true"
+                                       width="400" height="350" loop="true" />
+                            </td>
+                        </tr>
+                    }
+                }
+            </table>
+        </dd>
+    </dl>
+</div>
+<div>
+    @if (ViewBag.Role == "Teacher")
+    {
+    <p>
+        <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    </p>
+    }
+    <a asp-action="Index" asp-route-allCourses="true">Back to List</a>
+</div>

@@ -1,0 +1,9 @@
+E:\PixelStamp\PixelStamp.TaskPortal\obj\Debug\netcoreapp3.1\PixelStamp.TaskPortal.csprojAssemblyReference.cache
+E:\PixelStamp\PixelStamp.TaskPortal\obj\Debug\netcoreapp3.1\PixelStamp.TaskPortal.AssemblyInfoInputs.cache
+E:\PixelStamp\PixelStamp.TaskPortal\obj\Debug\netcoreapp3.1\PixelStamp.TaskPortal.AssemblyInfo.cs
+E:\PixelStamp\PixelStamp.TaskPortal\obj\Debug\netcoreapp3.1\PixelStamp.TaskPortal.csproj.CoreCompileInputs.cache
+E:\PixelStamp\PixelStamp.TaskPortal\obj\Debug\netcoreapp3.1\PixelStamp.TaskPortal.MvcApplicationPartsAssemblyInfo.cache
+E:\PixelStamp\PixelStamp.TaskPortal\obj\Debug\netcoreapp3.1\PixelStamp.TaskPortal.RazorAssemblyInfo.cache
+E:\PixelStamp\PixelStamp.TaskPortal\obj\Debug\netcoreapp3.1\PixelStamp.TaskPortal.RazorAssemblyInfo.cs
+E:\PixelStamp\PixelStamp.TaskPortal\obj\Debug\netcoreapp3.1\PixelStamp.TaskPortal.TagHelpers.input.cache
+E:\PixelStamp\PixelStamp.TaskPortal\obj\Debug\netcoreapp3.1\PixelStamp.TaskPortal.TagHelpers.output.cache

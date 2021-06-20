@@ -1,0 +1,15 @@
+E:\PixelStamp\PixelStamp.Infrastructure\bin\Debug\netcoreapp3.1\PixelStamp.Infrastructure.deps.json
+E:\PixelStamp\PixelStamp.Infrastructure\bin\Debug\netcoreapp3.1\PixelStamp.Infrastructure.runtimeconfig.json
+E:\PixelStamp\PixelStamp.Infrastructure\bin\Debug\netcoreapp3.1\PixelStamp.Infrastructure.runtimeconfig.dev.json
+E:\PixelStamp\PixelStamp.Infrastructure\bin\Debug\netcoreapp3.1\PixelStamp.Infrastructure.dll
+E:\PixelStamp\PixelStamp.Infrastructure\bin\Debug\netcoreapp3.1\PixelStamp.Infrastructure.pdb
+E:\PixelStamp\PixelStamp.Infrastructure\bin\Debug\netcoreapp3.1\PixelStamp.Core.dll
+E:\PixelStamp\PixelStamp.Infrastructure\bin\Debug\netcoreapp3.1\PixelStamp.Core.pdb
+E:\PixelStamp\PixelStamp.Infrastructure\obj\Debug\netcoreapp3.1\PixelStamp.Infrastructure.csprojAssemblyReference.cache
+E:\PixelStamp\PixelStamp.Infrastructure\obj\Debug\netcoreapp3.1\PixelStamp.Infrastructure.AssemblyInfoInputs.cache
+E:\PixelStamp\PixelStamp.Infrastructure\obj\Debug\netcoreapp3.1\PixelStamp.Infrastructure.AssemblyInfo.cs
+E:\PixelStamp\PixelStamp.Infrastructure\obj\Debug\netcoreapp3.1\PixelStamp.Infrastructure.csproj.CoreCompileInputs.cache
+E:\PixelStamp\PixelStamp.Infrastructure\obj\Debug\netcoreapp3.1\PixelStamp.Infrastructure.csproj.CopyComplete
+E:\PixelStamp\PixelStamp.Infrastructure\obj\Debug\netcoreapp3.1\PixelStamp.Infrastructure.dll
+E:\PixelStamp\PixelStamp.Infrastructure\obj\Debug\netcoreapp3.1\PixelStamp.Infrastructure.pdb
+E:\PixelStamp\PixelStamp.Infrastructure\obj\Debug\netcoreapp3.1\PixelStamp.Infrastructure.genruntimeconfig.cache

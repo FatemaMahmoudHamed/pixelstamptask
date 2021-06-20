@@ -1,0 +1,63 @@
+﻿@using System;
+@model IEnumerable<PixelStamp.Core.Dtos.CourseDto>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<h1>Index</h1>
+@if (ViewBag.Role == "Teacher")
+{
+    <p>
+        <a asp-action="Create" class="btn btn-dark">Create New</a>
+    </p>
+}
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                @if (ViewBag.Role == "Teacher")
+                //&& ViewBag.LoggedInUserId == item.CourseOwner.Value.ToString())
+                {
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-danger">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-primary">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-success">Delete</a> |
+                        @*<a asp-action="Buy" asp-route-id="@item.Id" class="btn btn-primary">Buy</a> |*@
+                        <a asp-controller="Lesson" asp-action="Index" asp-route-courseId="@item.Id" class="btn btn-primary">Lessons</a> |
+                        <a asp-controller="Exam" asp-action="Index" asp-route-courseId="@item.Id" class="btn btn-primary">Exams</a>
+                    </td>
+                }
+                @if (ViewBag.Role == "Student")
+                //&& item.Buyers..Any(x => x.Id.Value.ToString() == ViewBag.LoggedInUserId))
+                {
+                    <td>
+                        <a asp-action="Buy" asp-route-id="@item.Id" class="btn btn-primary">Buy</a> |
+                        <a asp-controller="Lesson" asp-action="Index" asp-route-courseId="@item.Id" class="btn btn-primary">Lessons</a> |
+                        <a asp-controller="Exam" asp-action="Index" asp-route-courseId="@item.Id" class="btn btn-primary">Exams</a>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="index" asp-controller="Home" class="btn btn-warning">BACK TO HOME PAGE</a>

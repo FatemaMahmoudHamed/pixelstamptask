@@ -1,0 +1,16 @@
+E:\PixelStamp\PixelStamp.ServiceInterface\bin\Debug\netcoreapp3.1\PixelStamp.ServiceInterface.deps.json
+E:\PixelStamp\PixelStamp.ServiceInterface\bin\Debug\netcoreapp3.1\PixelStamp.ServiceInterface.dll
+E:\PixelStamp\PixelStamp.ServiceInterface\bin\Debug\netcoreapp3.1\PixelStamp.ServiceInterface.pdb
+E:\PixelStamp\PixelStamp.ServiceInterface\bin\Debug\netcoreapp3.1\PixelStamp.Common.dll
+E:\PixelStamp\PixelStamp.ServiceInterface\bin\Debug\netcoreapp3.1\PixelStamp.Core.dll
+E:\PixelStamp\PixelStamp.ServiceInterface\bin\Debug\netcoreapp3.1\PixelStamp.Infrastructure.dll
+E:\PixelStamp\PixelStamp.ServiceInterface\bin\Debug\netcoreapp3.1\PixelStamp.Common.pdb
+E:\PixelStamp\PixelStamp.ServiceInterface\bin\Debug\netcoreapp3.1\PixelStamp.Core.pdb
+E:\PixelStamp\PixelStamp.ServiceInterface\bin\Debug\netcoreapp3.1\PixelStamp.Infrastructure.pdb
+E:\PixelStamp\PixelStamp.ServiceInterface\obj\Debug\netcoreapp3.1\PixelStamp.ServiceInterface.csprojAssemblyReference.cache
+E:\PixelStamp\PixelStamp.ServiceInterface\obj\Debug\netcoreapp3.1\PixelStamp.ServiceInterface.AssemblyInfoInputs.cache
+E:\PixelStamp\PixelStamp.ServiceInterface\obj\Debug\netcoreapp3.1\PixelStamp.ServiceInterface.AssemblyInfo.cs
+E:\PixelStamp\PixelStamp.ServiceInterface\obj\Debug\netcoreapp3.1\PixelStamp.ServiceInterface.csproj.CoreCompileInputs.cache
+E:\PixelStamp\PixelStamp.ServiceInterface\obj\Debug\netcoreapp3.1\PixelStamp.ServiceInterface.csproj.CopyComplete
+E:\PixelStamp\PixelStamp.ServiceInterface\obj\Debug\netcoreapp3.1\PixelStamp.ServiceInterface.dll
+E:\PixelStamp\PixelStamp.ServiceInterface\obj\Debug\netcoreapp3.1\PixelStamp.ServiceInterface.pdb
